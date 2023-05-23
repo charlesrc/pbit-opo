@@ -48,6 +48,10 @@ This repository contains codes and data published in the above-mentioned manuscr
         <li> Density matrix model </li>         
     </ul>        
   <li>Experimental data</li>
+      <ul>
+        <li> Power-dependent data generates plots for Figure 2 and 3 </li> 
+        <li> Time-dependent data generates plots for Figure 4 </li>         
+    </ul>        
 </ul>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
