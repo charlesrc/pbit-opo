@@ -81,7 +81,7 @@ Clone the repository
 
 ### Python Prerequisites
 
-Python sections of the code were written in Python 3.9.6. To download required Python packages, you can use the following command (preferably in a virtual environment):
+Python sections of the code were written in Python 3.9.7. To download required Python packages, you can use the following command (preferably in a virtual environment):
 * Python Requirements
   ```sh
   pip install -r requirements.txt
