@@ -108,7 +108,7 @@ All questions, inquiries, or suggestions should be addressed to the correspondin
 
 * Charles Roques-Carmes - [@personal_website](https://roques-carmes.com) - chrc@stanford.edu
 * Yannick Salamin - salamin@mit.edu 
-* Project Link: [https://github.com/charlesrc/nanoscint](https://github.com/charlesrc/pbit-opo)
+* Project Link: [https://github.com/charlesrc/pbit-opo](https://github.com/charlesrc/pbit-opo)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
