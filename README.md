@@ -18,9 +18,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About</a>
-      <ul>
-        <li><a href="#built-with">Numerical methods</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
