@@ -42,10 +42,9 @@
 This repository contains codes and data published in the above-mentioned manuscript. The methods presented here can be used to analyze weakly-biased optical parametric oscillators (OPO): 
 
 <ul>
-  <li>Numerical modeling of the two experimental configurations mentioned above, consisting in the combination of:</li>        
+  <li>Numerical modeling of vacuum-level biased OPOs</li>        
     <ul>
         <li> Stochastic differential equation model </li> 
-        <li> Density matrix model </li>         
     </ul>        
   <li>Experimental data</li>
       <ul>
