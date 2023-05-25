@@ -56,17 +56,6 @@ This repository contains codes and data published in the above-mentioned manuscr
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Numerical methods: implementation
-
-Our numerical methods utilize some existing libraries and packages:
-
-* [NLopt](https://nlopt.readthedocs.io/en/latest/) for optimization.
-
-If you use some of those methods, please cite them as well, as appropriate. 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
