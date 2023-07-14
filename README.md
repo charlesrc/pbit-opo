@@ -7,7 +7,7 @@
 </h3>
 
   <p align="justify">
-    Code and data for paper "Biasing the quantum vacuum to control macroscopic probability distributions", preprint available on <a href="https://arxiv.org/abs/2303.03455">arXiv</a>.
+    Code and data for paper "Biasing the quantum vacuum to control macroscopic probability distributions" (Roques-Carmes et al., Science, Vol 381, Issue 6654, pp. 205-209, 2023, DOI: 10.1126/science.adh4920) preprint available on <a href="https://arxiv.org/abs/2303.03455">arXiv</a>.
     <br />
   </p>
 </div>
